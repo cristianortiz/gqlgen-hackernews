@@ -10,6 +10,7 @@ require (
 require (
 	github.com/Microsoft/go-winio v0.5.0 // indirect
 	github.com/containerd/containerd v1.5.7 // indirect
+	github.com/dgrijalva/jwt-go v3.2.0+incompatible // indirect
 	github.com/docker/distribution v2.7.1+incompatible // indirect
 	github.com/docker/docker v20.10.9+incompatible // indirect
 	github.com/docker/go-connections v0.4.0 // indirect
@@ -28,6 +29,7 @@ require (
 	github.com/hashicorp/golang-lru v0.5.1 // indirect
 	github.com/mitchellh/mapstructure v1.2.3 // indirect
 	github.com/pkg/errors v0.9.1 // indirect
+	golang.org/x/crypto v0.0.0-20220331220935-ae2d96664a29
 	google.golang.org/genproto v0.0.0-20211013025323-ce878158c4d4 // indirect
 	google.golang.org/grpc v1.41.0 // indirect
 )
